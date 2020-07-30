@@ -5,17 +5,34 @@
  */
 package eval_2020_07_30;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Formation
  */
 public class Q2 {
 
-    /**
-     * @param args the command line arguments
-     */
+ 
     public static void main(String[] args) {
-        // TODO code application logic here
+       Scanner reader = new Scanner(System.in);
+       
+       System.out.println("Saisisse un mot: ");
+       
+       String mot1= reader.next();
+
     }
+    
+     public static void EstPalindrome(String mot) {
+            
+           
+            
+     }
+     
+      public static void NbPld(String mot) {
+            
+           
+            
+     }
     
 }
